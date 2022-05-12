@@ -2,10 +2,10 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 Infinite Scroll Extension</h2>
+				<h1>Magento 2 Infinite Scroll Extension</h1>
 				<p>Using the<strong><a href="https://www.mageants.com/infinite-scroll-for-magento-2.html">Magento 2 Infinite Scroll Extension</a></strong> not only helps the customer in saving time, but is also helpful for the store owner by reducing their workload. The extra loading time of the product pages may irritate the customers because this is a smart navigation feature that can manage the pages protecting other important information.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Ajax technology is used for auto-upload of the pages.</li>
 						<li>Infinite scroll and automatic page scroll button can be set.</li>
